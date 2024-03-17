@@ -3,7 +3,7 @@ const Nav = () => {
   return (
     <div className="w-screen flex justify-between px-10 py-8">
       <div className="">logo</div>
-      <div className="flex gap-8">
+      <div className="flex gap-8 lg:block">
         {items.map((item) => {
           return (
             <div className="cursor-pointer" key={item}>
