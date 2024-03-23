@@ -1,0 +1,74 @@
+[
+  {
+    "name": "FAKE TOP 1",
+    "price": 29.99,
+    "description": "A stylish and comfortable shirt made from high-quality cotton blend. Perfect for casual or semi-formal occasions.",
+    "image": "",
+    "sizes": ["S", "M", "L"],
+    "type": "TOPS",
+    "new": true
+  },
+  {
+    "name": "FAKE PANTS 2",
+    "price": 49.99,
+    "description": "A versatile pair of pants crafted from durable yet breathable material. Suitable for outdoor activities or daily wear.",
+    "image": "",
+    "sizes": ["S", "M", "L"],
+    "type": "PANTS",
+    "new": true
+  },
+  {
+    "name": "FAKE ITEM 3",
+    "price": 19.99,
+    "description": "A stylish and trendy scarf made from soft and warm material. Perfect for adding a touch of elegance to any outfit.",
+    "image": "",
+    "sizes": [],
+    "type": "ACCESSORIES",
+    "new": true
+  },
+  {
+    "name": "FAKE TOP 4",
+    "price": 39.99,
+    "description": "A lightweight and breathable tank top made from moisture-wicking fabric, perfect for workouts or outdoor activities.",
+    "image": "",
+    "sizes": ["S", "M", "L"],
+    "type": "TOPS",
+    "new": true
+  },
+  {
+    "name": "FAKE PANTS 5",
+    "price": 59.99,
+    "description": "A pair of durable and stylish jeans crafted from high-quality denim, suitable for casual or dressy occasions.",
+    "image": "",
+    "sizes": ["S", "M", "L"],
+    "type": "PANTS",
+    "new": true
+  },
+  {
+    "name": "FAKE ITEM 6",
+    "price": 24.99,
+    "description": "A sleek and modern wristwatch with a stainless steel case and leather band, perfect for adding a touch of sophistication to any outfit.",
+    "image": "",
+    "sizes": [],
+    "type": "ACCESSORIES",
+    "new": true
+  },
+  {
+    "name": "FAKE TOP 7",
+    "price": 44.99,
+    "description": "A cozy and stylish sweater made from soft and warm wool blend, perfect for chilly weather.",
+    "image": "",
+    "sizes": ["S", "M", "L"],
+    "type": "TOPS",
+    "new": true
+  },
+  {
+    "name": "FAKE PANTS 8",
+    "price": 69.99,
+    "description": "A pair of comfortable and versatile hiking pants with multiple pockets and quick-drying fabric, perfect for outdoor adventures.",
+    "image": "",
+    "sizes": ["S", "M", "L"],
+    "type": "PANTS",
+    "new": true
+  }
+]
