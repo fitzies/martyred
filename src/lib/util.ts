@@ -9,4 +9,8 @@ const getProducts = (type?: string) => {
   return fakedata;
 };
 
-export { getProducts };
+const getSpecficProduct = (product: string) => {
+  return fakedata.find((item) => item.name === product);
+};
+
+export { getProducts, getSpecficProduct };
