@@ -22,15 +22,15 @@ const Page = ({ params }: { params: { slug: string } }) => {
 
   return (
     <div className="w-screen h-screen flex lg:flex-row flex-col">
-      <div className="w-1/2 h-full flex p-8 border-r">
-        <div className="div w-1/4 h-5/6 px-8">
+      <div className="lg:w-1/2 w-full h-full flex p-8 lg:border-r">
+        <div className="div w-1/4 h-5/6 px-8 lg:block hidden">
           {product.image.map((image) => (
             <div key={image} className="h-1/4 bg-zinc-900 rounded-lg"></div>
           ))}
         </div>
-        <div className="w-2/3 h-5/6 bg-zinc-900 rounded-lg"></div>
+        <div className="lg:w-2/3 w-full lg:h-5/6 h-full bg-zinc-900 rounded-lg"></div>
       </div>
-      <div className="w-1/2 h-full flex flex-col p-8 gap-4">
+      <div className="lg:w-1/2 w-full h-full flex flex-col p-8 gap-4">
         <h1 className="text-2xl font-bold">
           {product.name}
           <span className="text-gray-400 text-lg"> • ${product.price}</span>
